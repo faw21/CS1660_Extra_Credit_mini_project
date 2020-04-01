@@ -5,3 +5,7 @@
 `docker pull aaronwu9774/fenixedu`
 
 `docker run aaronwu9774/fenixedu`
+
+The docker hub link for this repository:
+
+https://hub.docker.com/r/aaronwu9774/fenixedu(https://hub.docker.com/r/aaronwu9774/fenixedu)
